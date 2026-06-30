@@ -1,0 +1,7 @@
+streamlit
+langdetect
+deep-translator
+scikit-learn
+pandas
+numpy
+nltk
